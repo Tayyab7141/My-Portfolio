@@ -4,7 +4,7 @@ A clean and modern **Weather App** built using **React Native with Expo Go**, fe
 
 ## 📺 Watch the Full Demo on YouTube
 
-👉 [Watch the video here](https://youtube.com/shorts/PCViIloK--k?feature=share)  
+👉 [Watch the video here](https://youtube.com/shorts/hAdCmoM2AVo?si=_lwIoWyrGxKMN9su)  
 📌 Don’t forget to **like**, **comment**, and **subscribe** if you find it helpful!
 
 ---
@@ -40,5 +40,5 @@ Scan the QR code below using the **Expo Go app** on your mobile device to run th
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/weather-app-react-native.git
+   git clone https://github.com/Tayyab7141/weather-app-react-native.git
    cd weather-app-react-native;
