@@ -1,0 +1,51 @@
+{
+  "name": "job-app",
+  "slug": "job-app",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "userInterfaceStyle": "light",
+  "newArchEnabled": true,
+  "sdkVersion": "52.0.0",
+  "description": "",
+  "scheme": "job-app",
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "splash": {
+    "image": "./assets/splash-icon.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  },
+  "ios": {
+    "supportsTablet": true,
+    "bundleIdentifier": "com.expo.joblisting",
+    "config": {
+      "googleSignIn": {
+        "reservedClientId": "com.googleusercontent.apps.665605965675-4b0mm1j5ulsv3t3pgn6qm7cerfpb55m1"
+      }
+    }
+  },
+  "android": {
+    "package": "com.expo.joblisting",
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/adaptive-icon.png",
+      "backgroundColor": "#ffffff"
+    }
+  },
+  "web": {
+    "favicon": "./assets/favicon.png"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "32df5283-ce14-47cf-90d8-55bffa19b4b7"
+    }
+  },
+  "owner": "tanveer112",
+  "runtimeVersion": {
+    "policy": "appVersion"
+  },
+  "updates": {
+    "url": "https://u.expo.dev/32df5283-ce14-47cf-90d8-55bffa19b4b7"
+  }
+}
