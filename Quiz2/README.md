@@ -8,7 +8,7 @@ Great for learning how to structure UI layouts and handle image-based content in
 
 ## 📺 **Watch the Demo on YouTube**
 
-👉 [**Watch the demo here**](https://youtube.com/shorts/7DML9ngaM5Y?feature=share)  
+👉 [**Watch the demo here**](https://youtube.com/shorts/EtIFAMlTtnQ?si=ZDU6UpjOTbTnMJHZ)  
 📌 Don’t forget to **like**, **comment**, and **subscribe** if you find it helpful!
 
 ---
@@ -49,7 +49,7 @@ Scan this QR code using the **Expo Go** app on your mobile device to launch the 
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/disney-movie-app.git
+git clone https://github.com/Tayyab7141/disney-movie-app.git
 cd disney-movie-app
 ```
 
